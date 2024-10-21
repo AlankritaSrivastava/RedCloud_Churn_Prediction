@@ -109,4 +109,6 @@ The models were assessed using a hold-out test set, yielding the following resul
   - **Incentives for Longer Tenure:** Introduce loyalty programs for long-term retention.
 
 ### Conclusion
-The churn prediction model highlights factors leading to customer attrition. By focusing on key indicators and implementing tailored strategies, we can enhance customer loyalty and improve retention rates, leading to greater profitability and long-term success.
+The churn prediction model highlights key factors contributing to customer attrition, such as customer complaints, satisfaction scores, and tenure. By focusing on these indicators and implementing tailored strategies—such as improving customer support, launching targeted engagement initiatives, and providing incentives for longer-tenured customers—businesses can enhance customer loyalty and improve retention rates, leading to greater profitability and long-term success.
+
+Additionally, the use of robust machine learning algorithms like Random Forest and XGBoost has proven particularly useful in handling outliers in the dataset. These algorithms are less sensitive to outliers compared to others, ensuring that the presence of extreme values does not negatively impact model performance. This allows for more accurate predictions and reliable insights, making the models more effective in real-world scenarios where data anomalies are common.
