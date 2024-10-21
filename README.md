@@ -1,12 +1,12 @@
 # Churn Prediction Project
 
 ## Aim
-This project aims to assess the approach to solving the churn prediction problem, including data analysis, insights extraction, data preparation for model training, model building and validation, and the conclusions drawn from the results. Additionally, the effective communication of findings to both technical and non-technical audiences is emphasized.
+The objective of this project is to develop a comprehensive solution for predicting customer churn. It involves a systematic approach that includes exploratory data analysis, data preprocessing, model building, and performance evaluation. The goal is to extract actionable insights from customer data, build effective machine learning models for churn prediction, and communicate the findings to both technical and non-technical stakeholders. Ultimately, this project aims to support business strategies by identifying at-risk customers and providing recommendations to improve retention and reduce churn.
 
 ---
 
 ## Part 1: Exploratory Data Analysis (EDA)
-The goal of this part was to conduct an exploratory data analysis (EDA) on the customer dataset to uncover patterns, relationships, and insights that will inform predictive modelling efforts. EDA is crucial for understanding the data and lays the groundwork for informed decision-making.
+The goal of this part is to conduct an exploratory data analysis (EDA) on the customer dataset to uncover patterns, relationships, and insights that will inform predictive modelling efforts. EDA is crucial for understanding the data and lays the groundwork for informed decision-making.
 
 ### 1. Overview of the Dataset
 The dataset consists of 4,661 customer records and 18 features, including customer demographics, transaction behaviors, and customer service interactions. The initial analysis revealed:
