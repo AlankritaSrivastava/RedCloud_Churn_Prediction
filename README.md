@@ -59,7 +59,7 @@ The exploratory data analysis provided crucial insights into customer behaviors 
 ---
 
 ## Part 2: Churn Prediction
-The objective of this part was to develop a machine learning model to predict whether a customer is likely to churn based on various customer features. This involved data preparation, model selection, and performance evaluation, aimed at providing insights for enhancing customer retention strategies.
+The objective of this part is to develop a machine learning model to predict whether a customer is likely to churn based on various customer features. This involves data preparation, model selection, and performance evaluation, aimed at providing insights for enhancing customer retention strategies.
 
 ### 1. Data Preparation
 To ensure a robust model, several data preparation steps were undertaken:
